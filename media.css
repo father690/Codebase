@@ -1,0 +1,235 @@
+@media screen and (min-width: 320px) and (max-width: 570px)
+{
+    header
+    {
+        display: none;
+    }
+
+    *
+    {
+        box-sizing: border-box;
+    }
+
+    .main
+    {
+        flex-direction: column-reverse;
+        margin: 10px;
+        width: unset;
+        height: unset;
+    }
+    .box1 h1
+    {
+        padding: 0;
+        font-size: 20px;
+        margin-left: 100px;
+    }
+    .box1 p
+    {
+        font-size: 12px;
+        padding: 0;
+        margin-left: 100px;
+
+    }
+
+    .box1 button 
+    {
+        font-size: 14px;
+        margin-left: 100px;
+    }
+    .box2 img
+    {
+        width: 300px;
+        height: 300px;
+    }
+    .image 
+    {
+        width: 100px;
+        height: 100px;
+        flex-direction: column;
+    } 
+    .dree
+    {
+        padding: 0;
+    }
+    .flex, .flex1
+    {
+        flex-direction: column;
+        width: unset;
+    }
+    .main4
+    {
+        width: unset;
+        height: unset;
+        padding: 50px 10px;
+    }
+    .box3
+    {
+        margin: 5px;
+    }
+    .main4 h1 
+    {
+        font-size: 25px;
+        margin: 10px 0px 30px;
+    }
+    .main5
+    {
+        width: unset;
+        height: unset;
+        margin: 0;
+        padding: 40px 30px;
+    }
+    .main5 h1 
+    {
+        font-size: 30px;
+        margin: 0px;
+        padding: 10px 0px;
+    }
+    .flex2
+    {
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+        height: unset;
+        width: unset;
+    }
+    .box4
+    {
+        margin: 0;
+        padding: 20px 5px 30px;
+        width: unset;
+        height: unset;
+    }
+    .main6
+    {
+        width: unset;
+        height: unset;
+        margin: 0;
+        padding: 50px 10px;
+        position: static;
+    }
+    .main6 h1 
+    {
+        font-size: 30px;
+        margin: 0px;
+        padding: 10px 0px;
+    }
+    .subflex
+    {
+        flex-direction: column;
+        width: unset;
+        height: unset;
+        text-align: center;
+        margin-bottom: 20px;
+        margin-top: 20px;
+        padding: 0px;
+        justify-content: left;
+        position: static;
+    }
+    .flex3
+    {
+        padding: 0px;
+        width: unset;
+        height: unset;
+        margin: 0px;
+        position: static;
+        flex-direction: column;
+    }
+    .subhead p
+    {
+        padding: 0px;
+        margin: 0px;
+    }
+    .subhead
+    {
+        width: unset;
+        position: static;
+    }
+    .subhead h2
+    {
+        padding: 10px 0px;
+    }
+    .subhead p 
+    {
+        padding: 5px 30px;
+    }
+    .image3
+    {
+        width: unset;
+        height: unset;
+        margin: 10px 20px 30px;
+    }
+    .image3 img 
+    {
+        width: unset;
+        height: unset;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+    }
+    .head 
+    {
+        width: unset;
+        height: unset;
+        padding: 10px 0px;
+    }
+    .mainflex
+    {
+        padding: 0px 0px 20px;
+    }
+    .main7
+    {
+        margin: 0;
+        padding: 0;
+        width: unset;
+        height: unset;
+    }
+    .lasthead
+    {
+        margin: 0;
+        padding: 0;
+        width: unset;
+        height: unset;
+    }
+    .lasthead h1
+    {
+        font-size: 26px;
+        padding: 30px 0px 20px;
+
+    }
+    .lastflex
+    {
+        flex-direction: column;
+        padding: 20px;
+    }
+    .lastflex button 
+    {
+        margin: 15px;
+    }
+    .lastflex2
+    {
+        padding: 20px;
+    }
+    .main8
+    {
+        padding: 0;
+        margin: 0;
+        width: unset;
+        height: unset;
+    }
+    .copyright h4 
+    {
+        font-size: 12px;
+        padding-left: 10px;
+    }
+    .right
+    {
+        width: unset;
+    }
+
+    .right a
+    {
+        font-size: 12px;
+        padding: 10px 2px;
+        margin: 2px;
+    }
+}
